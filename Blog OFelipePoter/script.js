@@ -3,6 +3,7 @@ const posts = [
     { id: 1, title: 'Os Principios S.O.L.I.D', file: 'Os-Principios-S-O-L-I-D.html' },
     { id: 2, title: 'Faculdade ou Estudo Autodidata', file: 'Faculdade-ou-Estudo-Autodidata.html' },
     { id: 3, title: 'O Principio YAGNI', file: 'O-Principio-YAGNI.html'},
+    { id: 4, title: 'A Historia do C#', file: 'A-Historia-do-C#.html'},
 ];
 
 // Função para exibir as postagens na página
