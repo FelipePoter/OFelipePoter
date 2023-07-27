@@ -3,6 +3,14 @@ body {
     background-color: rgb(0, 11, 17);
 }
 
+header {
+    background-color: #0a0a0a; /* Cor de fundo da barra horizontal */
+    color: #fff; /* Cor do texto na barra */
+    text-align: start;
+    padding: 0px 0; /* Espaçamento interno da barra (10px acima e abaixo, 0 à esquerda e à direita) */
+    margin-top: -28px;
+  }
+
 .container {
     max-width: 600px;
     margin: 0 auto;
