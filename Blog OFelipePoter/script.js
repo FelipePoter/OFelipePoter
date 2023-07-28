@@ -5,6 +5,7 @@ const posts = [
     { id: 3, title: 'O Principio YAGNI', file: 'O-Principio-YAGNI.html'},
     { id: 4, title: 'A Historia do C#', file: 'A-Historia-do-CSharp.html'},
     { id: 5, title: 'Programacao Orientada a Objetos (POO)', file: 'Programacao-Orientada-a-Objetos(POO).html'},
+    { id: 6, title: 'Dicas que vão facilitar sua jornada aprendendo C#', file: 'Dicas-que-vao-facilitar-sua-jornada-aprendendo-CSharp.html'},
 ];
 
 // Função para exibir as postagens na página
