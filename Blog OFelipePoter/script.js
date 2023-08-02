@@ -1,11 +1,12 @@
 // Exemplo de dados de postagens (pode vir de um servidor backend)
 const posts = [
-    { id: 1, title: 'Os Principios S.O.L.I.D', file: 'Os-Principios-S-O-L-I-D.html' },
-    { id: 2, title: 'Faculdade ou Estudo Autodidata', file: 'Faculdade-ou-Estudo-Autodidata.html' },
-    { id: 3, title: 'O Principio YAGNI', file: 'O-Principio-YAGNI.html'},
-    { id: 4, title: 'A Historia do C#', file: 'A-Historia-do-CSharp.html'},
-    { id: 5, title: 'Programacao Orientada a Objetos (POO)', file: 'Programacao-Orientada-a-Objetos(POO).html'},
+    { id: 7, title: 'O ChatGPT como ferramenta etica', file: 'O-ChatGPT-como-ferramenta-etica.html'},
     { id: 6, title: 'Dicas que vão facilitar sua jornada aprendendo C#', file: 'Dicas-que-vao-facilitar-sua-jornada-aprendendo-CSharp.html'},
+    { id: 5, title: 'Programacao Orientada a Objetos (POO)', file: 'Programacao-Orientada-a-Objetos(POO).html'},
+    { id: 4, title: 'A Historia do C#', file: 'A-Historia-do-CSharp.html'},
+    { id: 3, title: 'O Principio YAGNI', file: 'O-Principio-YAGNI.html'},
+    { id: 2, title: 'Faculdade ou Estudo Autodidata', file: 'Faculdade-ou-Estudo-Autodidata.html' },
+    { id: 1, title: 'Os Principios S.O.L.I.D', file: 'Os-Principios-S-O-L-I-D.html' },
 ];
 
 // Função para exibir as postagens na página
