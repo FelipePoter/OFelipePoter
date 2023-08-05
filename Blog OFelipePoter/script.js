@@ -1,5 +1,6 @@
 // Exemplo de dados de postagens (pode vir de um servidor backend)
 const posts = [
+    { id: 8, title: 'ChatGPT compreendendo as implicações e responsabilidades', file: 'Chatgpt-compreendendo-as-implicações-e-responsabilidades.html'}
     { id: 7, title: 'O ChatGPT como ferramenta etica', file: 'O-ChatGPT-como-ferramenta-etica.html'},
     { id: 6, title: 'Dicas que vão facilitar sua jornada aprendendo C#', file: 'Dicas-que-vao-facilitar-sua-jornada-aprendendo-CSharp.html'},
     { id: 5, title: 'Programacao Orientada a Objetos (POO)', file: 'Programacao-Orientada-a-Objetos(POO).html'},
