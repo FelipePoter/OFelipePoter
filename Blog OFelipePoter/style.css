@@ -1,10 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Jetbrains Mono;
     background-color: rgb(0, 11, 17);
+    margin: 0px;
 }
 
 header {
-    background-color: #313131; /* Cor de fundo da barra horizontal */
+    background-color: #e4e4e4; /* Cor de fundo da barra horizontal */
     color: #fff; /* Cor do texto na barra */
     text-align: start;
     padding: 0px 0; /* Espaçamento interno da barra (10px acima e abaixo, 0 à esquerda e à direita) */
@@ -21,12 +22,14 @@ header {
 h1 {
     font-size: 40px;
     text-align: center;
-    color: rgb(0, 126, 0);
+    color: rgb(3, 168, 3);
+    font-family: Jetbrains Mono;
 }
 
 p {
     margin: 50px;
     color: whitesmoke;
+    font-family: Jetbrains Mono;
 }
 
 .post {
@@ -43,6 +46,7 @@ h3 {
     font-size: 30px;
     margin: 50px;
     color: whitesmoke;
+    font-family: Jetbrains Mono;
 }
 
 h4, h5 {
@@ -50,13 +54,15 @@ h4, h5 {
     margin: 55px;
     color: whitesmoke;
     text-align: justify;
+    font-family: Jetbrains Mono;
 }
 
 button {
     -webkit-text-fill-color: whitesmoke;
     background-color: rgb(0, 11, 17);
     cursor: pointer;
-    stroke: rgb(0, 11, 17);
     width: 300px;
     font-size: xx-large;
+    stroke:rgb(0, 11, 17);
+    font-family: Jetbrains Mono
 };
