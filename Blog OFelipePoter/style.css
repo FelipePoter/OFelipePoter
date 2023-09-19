@@ -1,5 +1,5 @@
 body {
-    font-family: JETBRAINSMONO-REGULAR;
+    font-family: JETBRAINSMONO-REGULAR.ttf;
     background-color: rgb(0, 11, 17);
     margin: 0px;
 }
@@ -23,13 +23,13 @@ h1 {
     font-size: 40px;
     text-align: center;
     color: rgb(3, 168, 3);
-    font-family: JETBRAINSMONO-REGULAR;
+    font-family: JETBRAINSMONO-REGULAR.ttf;
 }
 
 p {
     margin: 50px;
     color: whitesmoke;
-    font-family: JETBRAINSMONO-REGULAR;
+    font-family: JETBRAINSMONO-REGULAR.ttf;
 }
 
 .post {
@@ -46,7 +46,7 @@ h3 {
     font-size: 30px;
     margin: 50px;
     color: whitesmoke;
-    font-family: JETBRAINSMONO-REGULAR;
+    font-family: JETBRAINSMONO-REGULAR.ttf;
 }
 
 h4, h5 {
@@ -54,7 +54,7 @@ h4, h5 {
     margin: 55px;
     color: whitesmoke;
     text-align: justify;
-    font-family: JETBRAINSMONO-REGULAR;
+    font-family: JETBRAINSMONO-REGULAR.ttf;
 }
 
 button {
@@ -64,5 +64,5 @@ button {
     width: 300px;
     font-size: xx-large;
     stroke:rgb(0, 11, 17);
-    font-family: Jetbrains Mono
+    font-family: Jetbrains Mono.ttf;
 };
