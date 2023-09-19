@@ -4,12 +4,13 @@ body {
 }
 
 header {
-    background-color: #313131; /* Cor de fundo da barra horizontal */
+    background-color: #e4e4e4; /* Cor de fundo da barra horizontal */
     color: #fff; /* Cor do texto na barra */
     text-align: start;
     padding: 0px 0; /* Espaçamento interno da barra (10px acima e abaixo, 0 à esquerda e à direita) */
     margin-top: -28px;
   }
+  
 
 .container {
     max-width: 600px;
@@ -21,7 +22,7 @@ header {
 h1 {
     font-size: 40px;
     text-align: center;
-    color: rgb(0, 126, 0);
+    color: rgb(3, 168, 3);
 }
 
 p {
