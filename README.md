@@ -8,7 +8,7 @@ Você pode acessar o blog em [ofelipepoter.vercel.app](https://ofelipepoter.verc
 
 ## Sobre o Autor
 
-Meu nome é Felipe Poter e sou um entusiasta da tecnologia apaixonado por compartilhar conhecimento. Este blog é um espaço onde compartilho minhas ideias, experiências e aprendizados relacionados a desenvolvimento de software, programação, inovação e muito mais.
+Meu nome é Felipe de Carvalho Hesse e sou um entusiasta da tecnologia apaixonado por compartilhar conhecimento. Este blog é um espaço onde compartilho minhas ideias, experiências e aprendizados relacionados a desenvolvimento de software, programação, inovação e muito mais.
 
 ## Contribuição
 
