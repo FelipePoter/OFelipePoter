@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(0, 11, 17);
+    background-color: rgb(0, 11, 17); /* Cor do fundo */
 }
 
 header {
     background-color: #e4e4e4; /* Cor de fundo da barra horizontal */
     color: #fff; /* Cor do texto na barra */
-    text-align: start;
+    text-align: start; /* Onde o texto começara */
     padding: 0px 0; /* Espaçamento interno da barra (10px acima e abaixo, 0 à esquerda e à direita) */
-    margin-top: -28px;
+    margin-top: -28px; /* Margem superior */
   }
   
 
@@ -34,7 +34,7 @@ p {
     background-color: #d6d6d6;
     padding: 10px;
     margin-bottom: 20px;
-    cursor: pointer; /* Adicionamos um estilo de cursor para indicar que é clicável */
+    cursor: pointer; /* Estilo de cursor para indicar que é clicável */
     border-radius: 10px;
     margin-left: -150px;
     margin-right: -150px;
